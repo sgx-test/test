@@ -46,7 +46,7 @@ use std::slice;
 use std::panic;
 use sgx_tunittest::*;
 
-extern crate curv;
+extern crate num_bigint;
 
 pub mod tests;
 
